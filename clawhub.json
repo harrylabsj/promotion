@@ -1,6 +1,6 @@
 {
   "name": "promotion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "电商促销雷达 - 追踪淘宝、天猫、京东、拼多多、唯品会等中国大陆平台的热门促销活动，识别真优惠和假热闹，并给出现在最值得先看的活动入口",
   "keywords": [
     "promotion",
@@ -20,5 +20,6 @@
     "hot-sale"
   ],
   "author": "openclaw",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/harrylabsj/promotion"
 }

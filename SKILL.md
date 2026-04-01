@@ -1,7 +1,7 @@
 ---
 name: Platform Promo Radar
 slug: promotion
-version: 1.0.0
+version: 1.0.1
 description: Cross-platform promotion radar for mainland China shopping platforms that tracks the hottest current campaigns across Taobao, Tmall, JD, PDD, VIPSHOP, and similar marketplaces, ranks them by real savings, participation friction, category fit, freshness, and urgency, and tells the user which promotions are actually worth chasing right now.
 metadata:
   clawdbot:
